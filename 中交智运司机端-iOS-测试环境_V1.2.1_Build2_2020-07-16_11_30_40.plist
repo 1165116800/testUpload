@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://10.129.11.34:8080/job/QRcode-test-司机端iOS-testor/90/artifact/app/中交智运司机端-iOS-测试环境_V1.2.1_Build2_2020-07-16_11:30:40.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>http://10.129.11.34:8080/job/QRcode-test-司机端iOS-testor/90/artifact/app/icon/57.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>http://10.129.11.34:8080/job/QRcode-test-司机端iOS-testor/90/artifact/app/icon/512.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.ccccit.zydriver</string>
+                <key>bundle-version</key>
+                <string>1.2.1</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>中交智运司机端-iOS-测试环境_V1.2.1_Build2_2020-07-16_11:30:40</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
